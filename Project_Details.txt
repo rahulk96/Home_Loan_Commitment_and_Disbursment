@@ -1,0 +1,8 @@
+Project Details
+
+Housing Development Corporation Ltd. (HDC) is an NBFC majorly having presence in housing finance sector, apart from also funding for commercial spaces and land plots. It funds this line of business by accepting term deposits and issuing bonds.
+HDC now wants to replace its legacy IT system and replace it with a more robust, secure and advanced IT application. After careful consideration of multiple responses received on the RFP (Request for Proposal) and going through those vendor profiles, SmartWork has been assigned the contract to develop the IT application.
+As a business analyst working with SmartWork, you have been asked to prepare flowchart of multiple business processes. The idea is to document the business processes to start with, and then accordingly design the application.
+
+
+Create a flowchart to depict - Home Loan Commitment and Home Loan disbursement.
